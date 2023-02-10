@@ -1,0 +1,27 @@
+.app_section_container {
+  position: relative;
+  width: calc(100% - 300px);
+  top: 0;
+  left: 150px;
+  z-index: 2;
+}
+ 
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--navy);
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--green);
+}
+ 
+/* Handle on hover
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  } */

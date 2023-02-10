@@ -1,0 +1,35 @@
+{
+    "experiences":[
+        { 
+            "company":"React-Js",
+            "link": "/",
+            "title": "frontend developer",
+            "duration":"April 2022 - Feb 2023",
+            "desc": [
+                "The React. js framework is an open-source JavaScript framework and library developed by Facebook. ",
+                "It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript"
+                
+            ]
+        },
+        { 
+            "company":"Java",
+            "link": "/",
+            "title": "software developer",
+            "duration":"Jan 2022 - May 2022",
+            "desc": [
+                "Java is a popular programming language, created in 1995.",
+                "Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs"
+            ]
+        }     
+    ],
+    "projects": [
+        {
+            "title": "Quiz App",
+            "image": "img.png",
+            "desc":"exercitation ullamco laboris nisi ut",
+            "skills":["Vue", "Express", "Mongodb"],
+            "github": "/",
+            "link": "/"
+        }
+    ]
+}
